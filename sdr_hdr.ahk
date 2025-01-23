@@ -4,7 +4,7 @@
 
 ; VARIABLES
 
-global whitePoint := 220
+global whitePoint := 200
 global blackPoint := 0
 global gammaCurve := 2.2
 
@@ -119,7 +119,7 @@ return x
 !+2::
 {
   ResetCalibrationCurve()
-  global whitePoint := 220
+  global whitePoint := 200
   ; global blackLuminance := 0
   ; global gammaCurve := 2.2
   LoadCalibrationCurve()
