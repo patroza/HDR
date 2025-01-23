@@ -147,7 +147,8 @@ var := FileRead("hdr_games.json")
 
 ; Set up an array of target processes
 TargetProcesses := JSON.parse(var)
-;TargetProcesses := ["Cyberpunk2077.exe", "b1.exe"]
+
+LoadCalibrationCurve()
 
 ; Loop to monitor the processes
 Loop {
