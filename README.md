@@ -24,7 +24,7 @@ HotKeys:
 - alt+shift delete - turn off
 
 Games
-- b1 = black myth wukong; has no native HDR, but with some hacks it does.
+- b1 = black myth wukong; has no native HDR, but with some hacks it does (RenoDX: https://discord.com/channels/1161035767917850784/1280201526685470811/1280201528161861673)
 
 
 Credits
