@@ -14,6 +14,15 @@ What does the script do?
 
 Alternative to this program is installing ReShade with lilium HDR shaders, and enable SDR TRC Fix, per game.
 
+Convert to EXE with ahk2exe
+
+HotKeys:
+
+- shift+esc: 80 nits
+- alt+shift 1, 2: 120, 200 nits (default)
+- alt+delete: 480 nits
+- alt+shift delete - turn off
+
 Games
 - b1 = black myth wukong; has no native HDR, but with some hacks it does.
 
